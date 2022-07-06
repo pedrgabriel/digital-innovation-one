@@ -1,5 +1,4 @@
 package one.digitalinnovation.bank.testes
-
 import one.digitalinnovation.bank.TipoCliente
 
 fun main() {
